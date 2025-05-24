@@ -1,0 +1,8 @@
+{
+  "name": "@demo/parity-checker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "http://localhost:8081/repository/npm-hosted/"
+  }
+}
